@@ -1,0 +1,16 @@
+- url: https://github.com/Cameron485/gatsby-starter-netlify-cms-styled-components
+  repo: gatsby-starter-netlify-cms-styled-components - https://github.com/Cameron485/gatsby-starter-netlify-cms-styled-components
+  description: A simple starter with netlify cms, styled components and bulma
+
+  tags:
+    - netlify
+    - cms
+    - styled components
+    - bulma
+    - seo
+
+  features:
+    - Netlify CMS with git gateway
+    - Styled Components for building and styling reusable components
+    - Uses Bulma for layout
+    - Comes with SEO component that includes React Helmet, Open Graph and Twitter card support
